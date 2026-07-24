@@ -242,7 +242,7 @@ This project demonstrates how analytics can help businesses:
 
 # 👨‍💻 Author
 
-## Siddique H
+## SIDDIQUE H
 
 🎯 Aspiring Data Analyst  
 🤖 Generative AI Enthusiast  
